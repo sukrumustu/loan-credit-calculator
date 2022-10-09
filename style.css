@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image:
+
+        linear-gradient(rgba(46, 109, 109, 0.5), rgba(46, 109, 109, 0.5)),
+        url("./img/finance-coins-and-pens-6ynl0bsdsm9g83xz.jpg");
+    background-position: center;
+    background-size: cover;
+
+
+}
+
+.container {
+
+    display: block;
+    margin: auto;
+
+}
+
+
+
+label {
+    display: inline-block;
+}
