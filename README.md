@@ -1,0 +1,2 @@
+# loan-credit-calculator
+Hi everybody. This study is about loan calculating. You can calculate the housing loan, personal loan and auto loan by fixed interest rates. I used HTML, CSS and Javascript. I write a function to compute the monthly payment and total amount of payment by using the interest formula. I used calculate and reset buttons to make the results table seen on the DOM by utilizing DOM event handlers. I also added a background image. I hope you like it.
