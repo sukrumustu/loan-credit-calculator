@@ -125,8 +125,10 @@ document.querySelector("#reset").addEventListener("click", () => {
     amount.focus()
 });
 
-window.onload = months.focus();
-window.onload = amount.focus();
+window.onload = function (){
+    months.focus();
+    amount.focus();
+};
 
 
 
