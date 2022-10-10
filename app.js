@@ -121,7 +121,12 @@ calculate.addEventListener("click", () => {
 document.querySelector("#reset").addEventListener("click", () => {
 
     return results.innerHTML = "";
+    months.focus();
+    amount.focus()
 });
+
+window.onload = months.focus();
+window.onload = amount.focus();
 
 
 
